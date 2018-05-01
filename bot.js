@@ -1,7 +1,5 @@
 const Discord = require('discord.js');
 
-const TOKEN = "NDQwOTM5NzU4OTAyOTY4MzIw.DcpBFQ.1i9Ts6E1kM8XGpHyafBczC7ScwI";
-
 var bot = new Discord.Client({});
 var random;
 
