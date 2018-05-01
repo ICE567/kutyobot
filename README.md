@@ -1,4 +1,7 @@
 # kutyobot
+
+(Egy Discord Bot)
+
 Parancsok:
 !kellakutya - Random kiír egy MKKP-s igéretet/jelmondatot
 
