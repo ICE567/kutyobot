@@ -13,7 +13,7 @@ bot.on("message", function (message) {
     if (message.author.equals(bot.user)) return;
 	
 	if (message.content == "!kellakutya") {
-		random = Math.floor((Math.random() * 14) + 0);
+		random = Math.floor((Math.random() * 15) + 0);
 		message.channel.send(promises[random]);
 	}
 });
