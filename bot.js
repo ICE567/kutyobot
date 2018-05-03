@@ -15,7 +15,7 @@ bot.on("message", function (message) {
 	
 	if (message.content == "!kellakutya") {
 		random = Math.floor((Math.random() * 14) + 0);
-		message.channel.send(promises[random] { file: ["http://civilhirugynokseg.hu/wp-content/uploads/2015/07/MKKP-620x270.jpg"] });
+		message.channel.send(promises[random] { file: [""] });
 	}
 });
 
